@@ -25,13 +25,22 @@ Sơ đồ nguyên lý (Schematic) là tài liệu đáng tham khảo nhất tron
 # Image
 
 ## Block Diagram
-<img width="603" height="244" alt="block diagram" src="https://github.com/user-attachments/assets/aff82f1a-a37a-4c80-a19f-a88063d32b1a" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aff82f1a-a37a-4c80-a19f-a88063d32b1a" width="40%">
+</p>
 
 ## L298N
-<img width="807" height="254" alt="L298N schematic" src="https://github.com/user-attachments/assets/173fdf5a-aaca-48a6-ade7-7dc6f8e8898e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/173fdf5a-aaca-48a6-ade7-7dc6f8e8898e" width="40%">
+</p>
 
 ## UART - USB - CH340G
-<img width="794" height="499" alt="UART USB CH340G" src="https://github.com/user-attachments/assets/c6bd666b-7f36-4143-b82c-62847e35077d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6bd666b-7f36-4143-b82c-62847e35077d" width="40%">
+</p>
 
 ## PCB Layout Draft
-<img width="460" height="433" alt="PCB layout draft" src="https://github.com/user-attachments/assets/17872698-9896-4406-a3c3-d36d70af34bd" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17872698-9896-4406-a3c3-d36d70af34bd" width="30%">
+</p>
+
